@@ -9,7 +9,7 @@
   "author": "redshoga <yui.ichioka.contact@gmail.com> (https://redshoga.github.io/)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-session": "^1.16.2",
     "morgan": "^1.9.1",
     "passport": "^0.4.0",
